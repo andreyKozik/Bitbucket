@@ -1,0 +1,13 @@
+@mixin main-block-header {
+  text-align: left;
+  text-transform: uppercase;
+  font-size: 24px;
+  line-height: 48px;
+  color: #FFFFFF;
+  font-family: "Exo-regular";
+}
+
+@mixin main-block-content {
+  margin-top: 15px;
+  z-index: 1;
+}

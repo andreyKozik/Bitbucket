@@ -1,0 +1,52 @@
+{
+  "header": {
+    "company": "REX",
+    "lang": "eng",
+    "acc": "my account"
+  },
+  "footer": {
+    "sign": "Great service and prices!"
+  },
+  "routes": {
+    "home": "home",
+    "sell": "sell",
+    "host": "host",
+    "about": "about us",
+    "support": "support"
+  },
+  "main": {
+    "filters": {
+      "header": "FILTERS",
+      "algorithm": "By Algorithm",
+      "coin": "By Coin",
+      "equipment": "By Equipment",
+      "manufacturer": {
+        "name": "By Manufacturer",
+        "AMD": "AMD",
+        "boundary": "Boundary Electric",
+        "pandaminer": "Pandaminer",
+        "nvidia": "Nvidia"
+      },
+      "inputs": {
+        "minPrice": "Minimum price",
+        "maxPrice": "Maximum price",
+        "search": "Search"
+      }
+    },
+    "onSale": {
+      "header": "ON SALE",
+      "view": "View",
+      "grid": "Grid",
+      "tile": {
+        "details": "Details",
+        "addCart": "Add to cart"
+      }
+    },
+    "newListings": {
+      "header": "NEW LISTINGS"
+    },
+    "news": {
+      "header": "NEWS"
+    }
+  }
+}

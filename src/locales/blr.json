@@ -1,0 +1,52 @@
+{
+  "header": {
+    "company": "REX",
+    "lang": "blr",
+    "acc": "мой рахунак"
+  },
+  "footer": {
+    "sign": "Выдатны сэрвіс і цэны!"
+  },
+  "routes": {
+    "home": "дадому",
+    "sell": "продаж",
+    "host": "стваральнік",
+    "about": "пра нас",
+    "support": "падтрымка"
+  },
+  "main": {
+    "filters": {
+      "header": "фільтры",
+      "algorithm": "па алгарытме",
+      "coin": "па цану",
+      "equipment": "па абсталяванні",
+      "manufacturer": {
+        "name": "вытворца",
+        "AMD": "AMD",
+        "boundary": "Boundary Electric",
+        "pandaminer": "Pandaminer",
+        "nvidia": "Nvidia"
+      },
+      "inputs": {
+        "minPrice": "мінімальны кошт",
+        "maxPrice": "максімальная цана",
+        "search": "пошук"
+      }
+    },
+    "onSale": {
+      "header": "У ПРОДАЖЫ",
+      "view": "Прагляд",
+      "grid": "Сетка",
+      "tile": {
+        "details": "Падрабязнасці",
+        "addCart": "Дадаць у кошык"
+      }
+    },
+    "newListings": {
+      "header": "НОВЫЯ ПРАПАНОВЫ"
+    },
+    "news": {
+      "header": "НАВІНЫ"
+    }
+  }
+}
